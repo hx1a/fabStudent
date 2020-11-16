@@ -29,5 +29,4 @@ public class InitInfo {
         Peers.add(new PeerConfig(name,url));
     }
 
-
 }
