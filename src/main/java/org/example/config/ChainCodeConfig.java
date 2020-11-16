@@ -1,6 +1,13 @@
 package org.example.config;
 
-// chaincode's configuration
+/*
+ * chaincode's configuration
+ * for example:
+ *   RootDir = "chaincode"
+ *   Name = "fabcar"
+ *   Path = "github.com/fabcar"
+ *   Version = "1"
+ * */
 public class ChainCodeConfig {
     protected String RootDir;
     protected String Name;

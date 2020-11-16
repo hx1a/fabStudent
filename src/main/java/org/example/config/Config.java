@@ -1,3 +1,4 @@
+/*
 package org.example.config;
 
 import java.io.File;
@@ -65,3 +66,4 @@ public class Config {
 
     public static final String CHAINCODE_1_VERSION = "1";
 }
+*/
